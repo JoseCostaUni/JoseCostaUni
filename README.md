@@ -17,7 +17,7 @@
 | LTW - Y2S1     | [Thrift Trove](https://github.com/JoseCostaUni/LTW-Project) | Online shop     | 15.4     |
 | AED - Y2S1     | [Schedule Manager](https://github.com/JoseCostaUni/Projeto_AED) |  Terminal-based tool with the purpose of oversee and execute several operations on student schedules    | 14.2     |
 | AED - Y2S1     | [Airline Management Tool](https://github.com/JoseCostaUni/Projeto_AED_2) | Terminal-based airline management tool    | 18.4       |
-| LDTS - Y2S1     | [Project 5](https://github.com/JoseCostaUni/LDTS-Project) | Terminal-based game built with a lanterna java framework in order to demonstrate knowledge about unit testing and design patterns    | 15.9     
+| LDTS - Y2S1     | [WORLD THRUSTER](https://github.com/JoseCostaUni/LDTS-Project) | Terminal-based game built with a lanterna java framework in order to demonstrate knowledge about unit testing and design patterns    | 15.9     
 
 
 
