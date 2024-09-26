@@ -12,12 +12,12 @@
 |-----------------------|-------------------------------------------------------|---------------------------------|-------|
 | DA -  Y2S2    | [Water Management Tool](https://github.com/JoseCostaUni/DA-1st-Project) | This was the first project of the subject oF DA and consisted of terminal-based application of a water management tool using several graphs algorithms   | 19.95     |
 | DA -  Y2S2    | [Graph Traversal Tool](https://github.com/JoseCostaUni/DA-2ndProject) | This was the first project of the subject oF DA and consisted of a terminal-based application using several graphs algorithms    | 18.8    |
-| ESOF - Y2S2   | [Help Buddies](https://github.com/JoseCostaUni/ESOF-Project) | Mobile application of a social network designed to meet people on events organized by the community  | 17.7    |
-| LCOM - Y2S2     | [Minix Chess](https://github.com/JoseCostaUni/project4) | Chess game made on Minix with specified software coded by us    | 17.44     |
-| LTW - Y2S1     | [Thrift Trove](https://github.com/FEUP-LTW-2024/ltw-project-2024-ltw04g05) | Online shop     | 15.4     |
+| ESOF - Y2S2   | [Help Buddies](https://github.com/JoseCostaUni/ESOF-Project) | Mobile application of a social network designed to meet people at events organized by the community  | 17.7    |
+| LCOM - Y2S2     | [Minix Chess](https://github.com/JoseCostaUni/LCOM-Project) | Chess game made on Minix with specified software coded by us    | 17.44     |
+| LTW - Y2S1     | [Thrift Trove](https://github.com/JoseCostaUni/LTW-Project) | Online shop     | 15.4     |
 | AED - Y2S1     | [Project 5](https://github.com/JoseCostaUni/Projeto_AED) | No description available yet    | 14.2     |
 | AED - Y2S1     | [Project 5](https://github.com/JoseCostaUni/Projeto_AED_2) | No description available yet    | 18.4       |
-| LDTS - Y2S1     | [Project 5](https://github.com/JoseCostaUni/Projeto_LDTS) | Terminal-based game built with a lanternaa java framework in order to demonstrate knowledge about unit testing and design patterns    | 15.9     |
+| LDTS - Y2S1     | [Project 5](https://github.com/JoseCostaUni/LDTS-Project) | Terminal-based game built with a lanterna java framework in order to demonstrate knowledge about unit testing and design patterns    | 15.9     
 
 
 
