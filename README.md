@@ -10,14 +10,14 @@
 
 | Subject               | Link to Project                                        | Brief Description               | Grade |
 |-----------------------|-------------------------------------------------------|---------------------------------|-------|
-| DA -  Y2S2    | [Project 1](https://github.com/JoseCostaUni/project1) | This was the first project of the subject od DA and consisted of terminal application of a water management tool using several graphs algorithms   | 19.95     |
-| DA -  Y2S2    | [Project 2](https://github.com/JoseCostaUni/project2) | This was the first project of the subject od DA and consisted of terminal application of a  using several graphs algorithms    | 18.8    |
-| ESOF - Y2S2   | [Project 3](https://github.com/JoseCostaUni/project3) | Mobile application of a social network designed to meeting people on events organized by the community  | 17.7    |
+| DA -  Y2S2    | [Project 1](https://github.com/JoseCostaUni/DA-1st-Project) | This was the first project of the subject od DA and consisted of terminal application of a water management tool using several graphs algorithms   | 19.95     |
+| DA -  Y2S2    | [Project 2](https://github.com/JoseCostaUni/DA-2ndProject) | This was the first project of the subject od DA and consisted of terminal application of a  using several graphs algorithms    | 18.8    |
+| ESOF - Y2S2   | [Project 3]([https://github.com/JoseCostaUni/project3](https://github.com/FEUP-LEIC-ES-2023-24/2LEIC04T4)) | Mobile application of a social network designed to meeting people on events organized by the community  | 17.7    |
 | LCOM - Y2S2     | [Project 4](https://github.com/JoseCostaUni/project4) | Chess game made on Minix with specified software coded by us    | 17.44     |
-| LTW - Y2S1     | [Project 5](https://github.com/JoseCostaUni/project5) | Online shop     | 15.4     |
-| AED - Y2S1     | [Project 5](https://github.com/JoseCostaUni/project5) | No description available yet    | A     |
-| AED - Y2S1     | [Project 5](https://github.com/JoseCostaUni/project5) | No description available yet    | A     |
-| LDTS - Y2S1     | [Project 5](https://github.com/JoseCostaUni/project5) | No description available yet    | A     |
+| LTW - Y2S1     | [Project 5](https://github.com/FEUP-LTW-2024/ltw-project-2024-ltw04g05) | Online shop     | 15.4     |
+| AED - Y2S1     | [Project 5](https://github.com/JoseCostaUni/Projeto_AED) | No description available yet    | A     |
+| AED - Y2S1     | [Project 5](https://github.com/JoseCostaUni/Projeto_AED_2) | No description available yet    | A     |
+| LDTS - Y2S1     | [Project 5](https://github.com/JoseCostaUni/Projeto_LDTS) | No description available yet    | A     |
 
 
 
