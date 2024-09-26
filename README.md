@@ -3,8 +3,7 @@
 ### Currently on the 3rd Year of LEIC at @FEUP
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseCostaUni&show_icons=true&theme=radical)-->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCostaUni&layout=compact&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseCostaUni&show_icons=true&theme=radical)
 
 ### Some Projects I Have Done for University During My Time Here:
 
