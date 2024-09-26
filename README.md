@@ -18,7 +18,9 @@
 | AED - Y2S1     | [Airline Management Tool](https://github.com/JoseCostaUni/Projeto_AED_2) | Terminal-based airline management tool    | 18.4       |
 | LDTS - Y2S1     | [WORLD THRUSTER](https://github.com/JoseCostaUni/LDTS-Project) | Terminal-based game built with a lanterna java framework in order to demonstrate knowledge about unit testing and design patterns    | 15.9     
 
-
+## Contact Me
+You can reach me at:
+- Email: [email](jpcosta2004@gmail.com)
 
 
 <!--**
