@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Currently on 3rd Year of LEIC at @FEUP
+### Currently on 1st Year of MESW at @FEUP
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseCostaUni&show_icons=true&theme=radical)-->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCostaUni&layout=compact&theme=radical&hide_border=true&langs_count=10)
